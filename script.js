@@ -11,4 +11,5 @@ function mapLetters(word){
 	}
 	return obj;
 }
-console.log(mapLetters("dodo"))
+
+console.log(mapLetters("dodo"));
